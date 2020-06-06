@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020.06.06 19:33:16.870,D:\New Builder\llb7\InheritanceTable.cpp=D:\New Builder\llb7\MyVariantTable.cpp</Transaction>
+    <Transaction>2020.06.06 19:33:16.870,D:\New Builder\llb7\InheritanceTable.h=D:\New Builder\llb7\MyVariantTable.h</Transaction>
+    <Transaction>2020.06.06 19:38:36.927,D:\New Builder\llb7\HTable.h=D:\New Builder\llb7\HashTable.h</Transaction>
+    <Transaction>2020.06.06 19:38:36.927,D:\New Builder\llb7\HTable.cpp=D:\New Builder\llb7\HashTable.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
