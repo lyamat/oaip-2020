@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.818,=D:\New Builder\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.066,D:\New Builder\La6b\Programm.h=D:\New Builder\La6b\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.282,D:\New Builder\La6b\Programm.h=D:\New Builder\La6b\Pragramm.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.926,D:\New Builder\La6b\Tree.cpp=D:\New Builder\La6b\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.828,D:\New Builder\Project1PCH1.h=D:\New Builder\La7b\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.015,D:\New Builder\La6b\Pragramm.dfm=D:\New Builder\La6b\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.066,D:\New Builder\La6b\Programm.cpp=D:\New Builder\La6b\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.282,D:\New Builder\La6b\Programm.cpp=D:\New Builder\La6b\Pragramm.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.015,D:\New Builder\La6b\Pragramm.cpp=D:\New Builder\La6b\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.926,D:\New Builder\La6b\Tree.h=D:\New Builder\La6b\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.109,D:\New Builder\Unit1.cpp=D:\New Builder\La7b\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.096,D:\New Builder\Project1.cbproj=D:\New Builder\La7b\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.109,D:\New Builder\Unit1.h=D:\New Builder\La7b\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.015,D:\New Builder\La6b\Pragramm.h=D:\New Builder\La6b\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.859,=D:\New Builder\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.318,=D:\New Builder\La6b\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.109,D:\New Builder\Unit1.dfm=D:\New Builder\La7b\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.066,D:\New Builder\La6b\Programm.dfm=D:\New Builder\La6b\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.282,D:\New Builder\La6b\Programm.dfm=D:\New Builder\La6b\Pragramm.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
